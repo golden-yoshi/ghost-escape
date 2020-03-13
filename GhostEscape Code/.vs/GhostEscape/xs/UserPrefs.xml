@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{1BD0843A-263C-E588-92FA-4551499225A2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelSelect.cs">
+    <Files>
+      <File FileName="../../interactables/Assets/scripts/player.cs" Line="77" Column="10" />
+      <File FileName="Assets/Scripts/FollowCamera.cs" Line="5" Column="26" />
+      <File FileName="Assets/Scripts/Player.cs" Line="68" Column="49" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="58" Column="29" />
+      <File FileName="Assets/Scripts/LevelSelect.cs" Line="7" Column="29" />
+      <File FileName="Assets/Scripts/GameControl.cs" Line="70" Column="7" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GhostEscape" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="LevelSelect.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9f9b3676-26ab-4a68-8822-1ad1327f4162" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
